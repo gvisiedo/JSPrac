@@ -9,4 +9,4 @@ document.getElementsByClassName('parrafito')
 
 
 h1.innerHTML = 'Patito';
-
+h1.innerText = 'Patito <br> feo';
